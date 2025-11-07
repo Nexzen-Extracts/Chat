@@ -49,8 +49,8 @@ header nav a:hover {
   justify-content: center;
   align-items: center;
   text-align: center;
-  background: linear-gradient(135deg, #0078d7, #00b4d8);
-  color: white;
+  background: #E0E0E0;
+  color: black;
   padding: 0 20px;
 }
 .hero h1 {
